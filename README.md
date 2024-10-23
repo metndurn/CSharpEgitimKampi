@@ -11,3 +11,4 @@ Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekra
 ## **beşinci proje döngüler ile örnek projeler**
 Bu projede for, while ve foreach döngüleri ile örnek uygulamalar yapıldı
 ## **altıncı proje diziler Diziler (Arrays)**
+Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim
