@@ -8,5 +8,5 @@ Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanı
 Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim.
 ## **dördüncü proje Döngüler (Loops)**
 Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım.
-## **beşinci proje döngüler ile örnek projeler 
+## **beşinci proje döngüler ile örnek projeler**
 Bu projede for, while ve foreach döngüleri ile örnek uygulamalar yapıldı
