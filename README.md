@@ -14,7 +14,7 @@ Bu projede for, while ve foreach döngüleri ile örnek uygulamalar yapıldı
 Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim
 ## **yedinci proje ile örnek uygulama yapıldı**
 Bu projede, foreach döngüsünü daha yakından bir sınav sistemi oluşturuldu. Öğrencilerin sınav notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim
-## **sekizinci proje Geriye Değer Döndüren Fonksiyonlar diğer adıyla Methodlar (Methods)
+## **sekizinci proje Geriye Değer Döndüren Fonksiyonlar diğer adıyla Methodlar (Methods)**
 Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum. 🎗️
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
