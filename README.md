@@ -20,3 +20,5 @@ Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan al
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
 ## **dokuzuncu proje visual studio ile veri tabani baglantisi**
 visual studio ile veri tabani baglantisi yaptık veri tabanındaki verileri visual studio ortamında nasıl cekilecegini nasıl baglanti kurulacagini ogrenmis oldum
+## **onuncu proje ile Crud Islemleri**
+bizler burada Crud yapisi ile listeleme, ekleme, guncelleme ve silme islemlerinin nasil yapildigini gorduk ve proje uzerinde pekistirme yaparak ogrendik.
