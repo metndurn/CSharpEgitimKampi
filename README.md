@@ -18,3 +18,5 @@ Bu projede, foreach döngüsünü daha yakından bir sınav sistemi oluşturuldu
 Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum. 🎗️
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
+## **dokuzuncu proje visual studio ile veri tabani baglantisi**
+visual studio ile veri tabani baglantisi yaptık veri tabanındaki verileri visual studio ortamında nasıl cekilecegini nasıl baglanti kurulacagini ogrenmis oldum
